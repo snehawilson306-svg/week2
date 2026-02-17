@@ -1,9 +1,6 @@
 # week2
 # Configuration-Driven Website System
 
-Author: Sneha Wilson  
-Week: 2
-
 ## Project Overview
 
 This project implements a configuration-driven website using HTML, CSS, and JavaScript.
